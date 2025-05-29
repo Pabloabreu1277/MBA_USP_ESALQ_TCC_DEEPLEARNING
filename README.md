@@ -8,3 +8,10 @@ Apresento meu Tcc desenvolvido no curso de MBA Ciencia de dados, onde abordo a t
   <div style="display: inline_block"><br>
     <img align="center" height="350" alt="coding-time" src="grafico_carga_termica_chiller_habilitado.png">
 
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="350" alt="coding-time" src="grafico_comparativo_distribuicao_forced_v2.png">
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="350" alt="coding-time" src="grafico_economia_energia_v2.png">
