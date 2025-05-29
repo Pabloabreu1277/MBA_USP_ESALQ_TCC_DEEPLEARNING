@@ -19,3 +19,4 @@ Apresento meu Tcc desenvolvido no curso de MBA Ciencia de dados, onde abordo a t
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="center" height="350" alt="coding-time" src="arquiteturarede.png">
+    
