@@ -6,5 +6,5 @@ Apresento meu Tcc desenvolvido no curso de MBA Ciencia de dados, onde abordo a t
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" height="300" alt="coding-time" src="grafico_carga_termica_chiller_habilitado.png">
+    <img align="center" height="400" alt="coding-time" src="grafico_carga_termica_chiller_habilitado.png">
 
