@@ -10,7 +10,7 @@ Apresento meu Tcc desenvolvido no curso de MBA Ciencia de dados, onde abordo a t
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" height="350" alt="coding-time" src="grafico_comparativo_distribuicao_forced_v2.png">
+    <img align="center" height="600" alt="coding-time" src="grafico_comparativo_distribuicao_forced_v2.png">
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
